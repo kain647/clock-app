@@ -1,0 +1,12 @@
+GET https://freegeoip.app/json/
+Accept: application/json
+
+###
+GET http://worldtimeapi.org/api/ip
+Accept: application/json
+
+###
+GET https://api.quotable.io/random
+Accept: application/json
+
+###
